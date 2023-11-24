@@ -1,0 +1,359 @@
+[
+  {
+    "name": "sweet chocolate Ilise",
+    "images": [
+      {
+        "public_id": "products/sweet_chocolate_Ilise",
+        "url": "https://picsum.photos/400?images=659"
+      }
+    ],
+    "stock": 81,
+    "price": "23488.67",
+    "ratings": 4,
+    "numsOfReviews": 1275,
+    "reviews": [],
+    "description": "Indulge in the sweetness of Ilise, a delightful chocolate treat that will satisfy your taste buds with every bite.",
+    "category": "Food",
+    "seller": "ebay"
+  },
+  {
+    "name": "civilian salmon Delinda",
+    "images": [
+      {
+        "public_id": "products/civilian_salmon_Delinda",
+        "url": "https://picsum.photos/400?images=261"
+      }
+    ],
+    "stock": 66,
+    "price": "42992.62",
+    "ratings": 2,
+    "numsOfReviews": 890,
+    "reviews": [],
+    "description": "Experience the savory delight of Delinda, a salmon dish with a touch of sophistication that will leave you craving for more.",
+    "category": "Food",
+    "seller": "amazon"
+  },
+  {
+    "name": "northern chocolate Dagmar",
+    "images": [
+      {
+        "public_id": "products/northern_chocolate_Dagmar",
+        "url": "https://picsum.photos/400?images=921"
+      }
+    ],
+    "stock": 58,
+    "price": "26956.67",
+    "ratings": 4,
+    "numsOfReviews": 1502,
+    "reviews": [],
+    "description": "Dagmar offers a northern chocolate experience, blending rich cocoa flavors with a hint of mystery that will captivate your senses.",
+    "category": "Food",
+    "seller": "aliexpress"
+  },
+  {
+    "name": "spatial plum Mattie",
+    "images": [
+      {
+        "public_id": "products/spatial_plum_Mattie",
+        "url": "https://picsum.photos/400?images=753"
+      }
+    ],
+    "stock": 74,
+    "price": "32827.45",
+    "ratings": 2,
+    "numsOfReviews": 432,
+    "reviews": [],
+    "description": "Embark on a journey of flavor with Mattie, where spatial plums meet a symphony of taste, creating a unique and unforgettable culinary experience.",
+    "category": "Food",
+    "seller": "ebay"
+  },
+  {
+    "name": "arrogant tan Nelia",
+    "images": [
+      {
+        "public_id": "products/arrogant_tan_Nelia",
+        "url": "https://picsum.photos/400?images=924"
+      }
+    ],
+    "stock": 85,
+    "price": "27379.36",
+    "ratings": 4,
+    "numsOfReviews": 1896,
+    "reviews": [],
+    "description": "Nelia presents an arrogant tan sensation, a fusion of bold flavors that will leave a lasting impression on your palate.",
+    "category": "Food",
+    "seller": "amazon"
+  },
+  {
+    "name": "following bronze Misti",
+    "images": [
+      {
+        "public_id": "products/following_bronze_Misti",
+        "url": "https://picsum.photos/400?images=340"
+      }
+    ],
+    "stock": 24,
+    "price": "34617.96",
+    "ratings": 3,
+    "numsOfReviews": 1055,
+    "reviews": [],
+    "description": "Follow the path to indulgence with Misti, a bronze-themed delight that combines tradition with a modern twist, resulting in a culinary masterpiece.",
+    "category": "Food",
+    "seller": "aliexpress"
+  },
+  {
+    "name": "continued rose Nesta",
+    "images": [
+      {
+        "public_id": "products/continued_rose_Nesta",
+        "url": "https://picsum.photos/400?images=712"
+      }
+    ],
+    "stock": 34,
+    "price": "27822.85",
+    "ratings": 1,
+    "numsOfReviews": 754,
+    "reviews": [],
+    "description": "Nesta invites you to savor the continued essence of roses, creating a culinary experience that is as timeless as it is exquisite.",
+    "category": "Food",
+    "seller": "ebay"
+  },
+  {
+    "name": "sufficient peach Georgiana",
+    "images": [
+      {
+        "public_id": "products/sufficient_peach_Georgiana",
+        "url": "https://picsum.photos/400?images=860"
+      }
+    ],
+    "stock": 55,
+    "price": "15506.06",
+    "ratings": 4,
+    "numsOfReviews": 1632,
+    "reviews": [],
+    "description": "Georgiana brings you the perfect blend of sufficiency and peaches, a harmonious combination that will leave you pleasantly satisfied.",
+    "category": "Food",
+    "seller": "amazon"
+  },
+  {
+    "name": "frequent sapphire Petronella",
+    "images": [
+      {
+        "public_id": "products/frequent_sapphire_Petronella",
+        "url": "https://picsum.photos/400?images=913"
+      }
+    ],
+    "stock": 36,
+    "price": "44132.59",
+    "ratings": 5,
+    "numsOfReviews": 1201,
+    "reviews": [],
+    "description": "Petronella, adorned with frequent sapphire hues, offers a luxurious taste experience that is both indulgent and satisfying.",
+    "category": "Food",
+    "seller": "aliexpress"
+  },
+  {
+    "name": "indirect indigo Fiona",
+    "images": [
+      {
+        "public_id": "products/indirect_indigo_Fiona",
+        "url": "https://picsum.photos/400?images=583"
+      }
+    ],
+    "stock": 49,
+    "price": "40702.21",
+    "ratings": 1,
+    "numsOfReviews": 1789,
+    "reviews": [],
+    "description": "Let Fiona take you on an adventure with her indirect indigo allure, a culinary journey filled with surprises and bold flavors.",
+    "category": "Food",
+    "seller": "ebay"
+  },
+  {
+    "name": "gross plum Veriee",
+    "images": [
+      {
+        "public_id": "products/gross_plum_Veriee",
+        "url": "https://picsum.photos/400?images=306"
+      }
+    ],
+    "stock": 12,
+    "price": "42194.21",
+    "ratings": 4,
+    "numsOfReviews": 625,
+    "reviews": [],
+    "description": "Veriee presents a gross plum experience, a unique combination of sweetness and boldness that will redefine your plum expectations.",
+    "category": "Food",
+    "seller": "amazon"
+  },
+  {
+    "name": "gigantic red Lissy",
+    "images": [
+      {
+        "public_id": "products/gigantic_red_Lissy",
+        "url": "https://picsum.photos/400?images=184"
+      }
+    ],
+    "stock": 45,
+    "price": "18745.19",
+    "ratings": 2,
+    "numsOfReviews": 1456,
+    "reviews": [],
+    "description": "Lissy boasts a gigantic red presence, a culinary masterpiece that marries boldness with elegance, creating a delightful and memorable experience.",
+    "category": "Food",
+    "seller": "aliexpress"
+  },
+  {
+    "name": "blind copper Dionne",
+    "images": [
+      {
+        "public_id": "products/blind_copper_Dionne",
+        "url": "https://picsum.photos/400?images=308"
+      }
+    ],
+    "stock": 27,
+    "price": "2038.28",
+    "ratings": 3,
+    "numsOfReviews": 1357,
+    "reviews": [],
+    "description": "Dionne, with a blind copper charm, invites you to explore a world of unexpected flavors that dance on your palate with every bite.",
+    "category": "Food",
+    "seller": "ebay"
+  },
+  {
+    "name": "varied indigo Lizzie",
+    "images": [
+      {
+        "public_id": "products/varied_indigo_Lizzie",
+        "url": "https://picsum.photos/400?images=453"
+      }
+    ],
+    "stock": 63,
+    "price": "33854.74",
+    "ratings": 5,
+    "numsOfReviews": 1768,
+    "reviews": [],
+    "description": "Lizzie offers a varied indigo experience, a tapestry of flavors that will tantalize your taste buds and leave you craving for more.",
+    "category": "Food",
+    "seller": "amazon"
+  },
+  {
+    "name": "singular amaranth Doris",
+    "images": [
+      {
+        "public_id": "products/singular_amaranth_Doris",
+        "url": "https://picsum.photos/400?images=69"
+      }
+    ],
+    "stock": 30,
+    "price": "45165.89",
+    "ratings": 5,
+    "numsOfReviews": 1450,
+    "reviews": [],
+    "description": "Doris, adorned in a single amaranth hue, promises a singular and exceptional culinary experience that will elevate your taste buds to new heights.",
+    "category": "Food",
+    "seller": "aliexpress"
+  },
+  {
+    "name": "unhappy rose Idette",
+    "images": [
+      {
+        "public_id": "products/unhappy_rose_Idette",
+        "url": "https://picsum.photos/400?images=663"
+      }
+    ],
+    "stock": 68,
+    "price": "43834.33",
+    "ratings": 3,
+    "numsOfReviews": 587,
+    "reviews": [],
+    "description": "Idette, with an unhappy rose demeanor, surprises your palate with a unique blend of flavors that will turn your culinary expectations upside down.",
+    "category": "Food",
+    "seller": "ebay"
+  },
+  {
+    "name": "sudden gold Nadeen",
+    "images": [
+      {
+        "public_id": "products/sudden_gold_Nadeen",
+        "url": "https://picsum.photos/400?images=23"
+      }
+    ],
+    "stock": 42,
+    "price": "27650.39",
+    "ratings": 2,
+    "numsOfReviews": 1293,
+    "reviews": [],
+    "description": "Nadeen brings you a sudden gold rush of flavors, a delightful surprise that will leave you enchanted with every golden bite.",
+    "category": "Food",
+    "seller": "amazon"
+  },
+  {
+    "name": "unwilling crimson Dory",
+    "images": [
+      {
+        "public_id": "products/unwilling_crimson_Dory",
+        "url": "https://picsum.photos/400?images=793"
+      }
+    ],
+    "stock": 17,
+    "price": "22816.04",
+    "ratings": 1,
+    "numsOfReviews": 178,
+    "reviews": [],
+    "description": "Dory, in an unwilling crimson hue, challenges your taste buds with bold and unexpected flavors that will leave you both surprised and satisfied.",
+    "category": "Food",
+    "seller": "aliexpress"
+  },
+  {
+    "name": "unwilling yellow Abagail",
+    "images": [
+      {
+        "public_id": "products/unwilling_yellow_Abagail",
+        "url": "https://picsum.photos/400?images=96"
+      }
+    ],
+    "stock": 53,
+    "price": "11291.36",
+    "ratings": 5,
+    "numsOfReviews": 674,
+    "reviews": [],
+    "description": "Abagail, with an unwilling yellow spirit, invites you to experience a burst of sunshine in every bite, creating a culinary journey that brightens your day.",
+    "category": "Food",
+    "seller": "ebay"
+  },
+  {
+    "name": "tired rose Joleen",
+    "images": [
+      {
+        "public_id": "products/tired_rose_Joleen",
+        "url": "https://picsum.photos/400?images=896"
+      }
+    ],
+    "stock": 39,
+    "price": "42832.94",
+    "ratings": 3,
+    "numsOfReviews": 1155,
+    "reviews": [],
+    "description": "Joleen, with a tired rose demeanor, rejuvenates your taste buds with unexpected bursts of flavor, creating a culinary experience that defies expectations.",
+    "category": "Food",
+    "seller": "amazon"
+  },
+  {
+    "name": "defiant cyan Fayth",
+    "images": [
+      {
+        "public_id": "products/defiant_cyan_Fayth",
+        "url": "https://picsum.photos/400?images=326"
+      }
+    ],
+    "stock": 92,
+    "price": "36369.44",
+    "ratings": 4,
+    "numsOfReviews": 923,
+    "reviews": [],
+    "description": "Fayth, in a defiant cyan spirit, challenges your taste buds with a culinary rebellion that combines boldness and sophistication in every dish.",
+    "category": "Food",
+    "seller": "aliexpress"
+  }
+]
