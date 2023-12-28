@@ -1,0 +1,14 @@
+.baneer{
+    height: 112px;
+    background-color:#b32225 ;
+}
+.product{
+    display: flex;
+    justify-content: space-around;
+}
+.productImg{
+    width: 33%;
+}
+.productInfos{
+    width: 33%;
+}

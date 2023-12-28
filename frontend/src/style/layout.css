@@ -8,13 +8,17 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    padding: 14px 74px;
 }
-.header>h1{
+.header>.logo{
     font-family: 'Whisper', cursive;
+    text-decoration: none;
     font-size: 56px;
     font-weight: 400;
     color: #f1f1f1;
+    margin: 20px 0px 20px 74px;
+}
+.searchGroup{
+    display: flex;
 }
 
 .sections{
@@ -29,6 +33,7 @@
 
 .navPlus{
     display: flex;
+    margin-right: 74px;
 }
 .navPlus>h3{
     color: #f1f1f1;

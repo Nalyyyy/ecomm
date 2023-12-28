@@ -12,6 +12,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-top: 100px;
     padding: 0 9.8vw ;
 }
 .populaires>h1{
@@ -26,6 +27,30 @@
     font-size: 0.8vw;
     margin: 1vw 0;
 }
+.loader {
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+  }
+  .loader:after {
+    content: " ";
+    display: block;
+    width: 64px;
+    height: 64px;
+    margin: 8px;
+    border-radius: 50%;
+    border: 6px solid #fff;
+    border-color: #b32225 transparent #b32225 transparent;
+    animation: lds-dual-ring 1.2s linear infinite;
+  }
+  @keyframes loader {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
 .cards{
     width: 100%;
     display: flex;
@@ -34,8 +59,10 @@
 .cardProduct{
     width: 19vw;
     height: 28.5vw;
+    justify-self: center;
 }
 .cardProduct>.top{
+    display: block;
     position: relative;
     width: 100%;
     height: 80%;
@@ -46,6 +73,11 @@
     position:absolute ;
     right: 0%;
     top: 0px;
+}
+.top>img{
+    width: 100%;
+    height: 100%;
+    border-radius: 0.5vw;
 }
 .cardProduct>.bot{
     display: flex;
@@ -64,7 +96,7 @@
     margin: 0%;
     font-size: 0.93vw;
 }
-.populaires>button{
+.populaires>.btn{
     font-family: 'Inter', sans-serif;
     font-weight: 300;
     font-size: 0.8vw;
@@ -76,3 +108,40 @@
     border-style: none;
     
 }
+.pagination{
+    display: flex;
+    margin: auto;
+}
+
+.page-item{
+    font-family: 'Inter', sans-serif;
+    list-style: none;
+    padding: 10px;
+    border: #0b0b0b solid  1px;
+}
+.page-link {
+    text-decoration: none;
+    list-style: none;
+    color: #0b0b0b;
+}
+  
+.page-link:hover {
+    color: #b32225;
+}
+.page-item:hover{
+    border-color: #b32225;
+}
+.active{
+    background-color: #b32225;
+}
+.active>.page-link{
+    color: #f1f1f1;
+}
+.products {
+    margin: 50px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    }

@@ -1,12 +1,16 @@
 import React from 'react'
+import {Link, Route, Routes} from 'react-router-dom'
+
+
+import Search from '../components/Search'
 import '../style/layout.css'
 
 const Header = () => {
   return (
     <div className='header'>
-        <h1 className='logo'>
+        <Link className='logo' to='/'>
             YnDial
-        </h1>
+        </Link>
         <nav className='sections'>
             <h2>HOMMES</h2>
             <h2>FEMMES</h2>
@@ -15,7 +19,10 @@ const Header = () => {
             <h2>BLOG</h2>
         </nav>
         <nav className='navPlus'>
-            <h3>recherche</h3>
+           
+           <Search />
+            
+            
             <h3>compte</h3>
             <h3>favoris</h3>
         </nav>
